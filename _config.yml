@@ -1,10 +1,11 @@
-title: Streamdata Gallery Freesound.org
-url: freesoundorg.streamdata.gallery
-tag: Freesound.org
+title: Streamdata API Gallery - Freesound
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
+url: freesound.streamdata.gallery
+tag: Freesound
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
-github_repo: freesoundorg
+github_user: streamdata-gallery-entities
+github_repo: freesound
 github_branch: master
 collections:
   listings:
